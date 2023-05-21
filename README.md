@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m Shubham Kumar<br>👀 I’m interested in Data Analysis, Data Science, Blogging, Machine Learning<br>🌱 I’m currently learning Python, HTML, SQL, MySql, Excel Statistics, Power BI, Flask, Power Point<br>💞️ I’m looking to collaborate on Data Analytics, Business Analytics and Data Science<br>📫 How to reach me shubhamkurtha@gmail.com
+ Hi, I’m Shubham Kumar<br>👀 I’m interested in Data Analysis, Data Science, Blogging, Machine Learning<br>🌱 I’m currently learning Python, HTML, SQL, MySql, Excel, Statistics, Power BI, Numpy, Pandas, Power Point<br>💞️ I’m looking to collaborate on Data Analytics, Business Analytics and Data Science<br>📫 How to reach me shubhamkurtha@gmail.com
 
 
 ## 🌐 Socials:
