@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Data Analysis, Data Science, Blogging, Data Visualization<br>🌱 I’m currently learning Python, SQL, MySql, Excel, Statistics, Power BI, Numpy, Pandas, Seaborn, Matplotlib, Power Point<br>💞️ I’m looking to collaborate on Data Analytics, Business Analytics and Data Science<br>📫 How to reach me shubhamkurtha@gmail.com
+👀 I’m interested in Data Analysis, Data Science, Web Development, Data Visualization<br>🌱 I’m currently learning Python, SQL, MySql, Excel, Statistics, Power BI, Numpy, Pandas, Seaborn, Matplotlib, Power Point<br>💞️ I’m looking to collaborate on Data Analytics, Business Analytics and Data Science<br>📫 How to reach me shubhamkurtha@gmail.com
 
 
 ## 🌐 Socials:
